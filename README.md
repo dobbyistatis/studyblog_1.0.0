@@ -1,2 +1,1 @@
-# testblog0
- testblog
+# studyblog_1.0.0
